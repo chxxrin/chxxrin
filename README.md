@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=chxxrin github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&chxxrin github=capsule%20render&fontSize=90" />
 
 <!--
 **chxxrin/chxxrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
