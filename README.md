@@ -1,9 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=BeMySelf%20&fontSize=90" />
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=?style=flat-square&logo=HTML&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=?style=flat-square&logo=CSS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-E34F26?style=?style=flat-square&logo=HTML&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ReactJS-1572B6?style=?style=flat-square&logo=CSS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-1572B6?style=?style=flat-square&logo=CSS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-1572B6?style=?style=flat-square&logo=CSS&logoColor=black"/>
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchxxrin&count_bg=%23A8ABAC&title_bg=%23B4D6E3&icon=&icon_color=%23B4D6E3&title=chaeRin&edge_flat=false)](https://hits.seeyoufarm.com)
